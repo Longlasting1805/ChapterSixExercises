@@ -1,4 +1,4 @@
-package Chapter6Examples;
+package Chapter6Exercises;
 
 import java.util.Scanner;
 
